@@ -1,0 +1,19 @@
+{
+  "name": "lab01",
+  "version": "1.0.0",
+  "description": "working on lab 1 with students",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Harman",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
