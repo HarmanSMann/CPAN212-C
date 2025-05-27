@@ -1,0 +1,11 @@
+Lab 2: "Before we start Instructions"
+
+create a new folder: lab02
+create a new sub folder inside lab02 called routers
+open an integrated terminal to lab02
+Run these commands:
+    npm init -y                     // This will create package.json
+    npm i express nodemon           // this will install express and nodemon
+
+Go into the package.json and add type: module   
+// This will ensure you are using import from (ES6+)
