@@ -1,0 +1,16 @@
+create a server folder
+    create a package.json
+        -> server terminal: npm init -y
+        -> server terminal: npm i express nodemon
+
+    in package.json
+        change project type to module
+    
+    create an express server
+
+
+create a client folder
+    run project installer: npm create vite@latest . -> we add the period to avoid creating another folder
+
+
+https://stackoverflow.com/questions/46745014/alternative-for-dirname-in-node-js-when-using-es6-modules
